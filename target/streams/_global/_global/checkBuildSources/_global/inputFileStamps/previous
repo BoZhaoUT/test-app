@@ -1,1 +1,1 @@
-["sbt.Task[scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]",{"hashes":[["/Users/bozhao/finagle/doc/src/sphinx/code/quickstart/build.sbt","a661f49418ca729bc78a124096d2c7e9270e65d3"]],"lastModifiedTimes":[]}]
+["sbt.Task[scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]",{"hashes":[["/Users/bozhao/quickstart/build.sbt","23ea63061e05eb31c0f0ebfa6504f6ffbdb2069a"]],"lastModifiedTimes":[]}]

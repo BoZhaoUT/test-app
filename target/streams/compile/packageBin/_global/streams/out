@@ -1,0 +1,23 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/bozhao/quickstart/target/scala-2.12/quickstart_2.12-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Proxy.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bozhao/quickstart/target/scala-2.12/classes/Proxy.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Client$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bozhao/quickstart/target/scala-2.12/classes/Client$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Client$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bozhao/quickstart/target/scala-2.12/classes/Client$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Server$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bozhao/quickstart/target/scala-2.12/classes/Server$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Server.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bozhao/quickstart/target/scala-2.12/classes/Server.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Client.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bozhao/quickstart/target/scala-2.12/classes/Client.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Server$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bozhao/quickstart/target/scala-2.12/classes/Server$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Server$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bozhao/quickstart/target/scala-2.12/classes/Server$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Proxy$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bozhao/quickstart/target/scala-2.12/classes/Proxy$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Proxy$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bozhao/quickstart/target/scala-2.12/classes/Proxy$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
